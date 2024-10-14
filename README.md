@@ -58,7 +58,10 @@ The **Feedback Collector App** is a simple feedback system that allows users to 
 ### Running the App
 
 1. **Clone the repository** or download the code.
-   
+
+   ```bash
+   git clone https://github.com/HenryKong112/Feedback-Collector.git
+   ```
 2. **Install the dependencies**:
    - If you don't have `pandas`, install it using:
      ```bash
